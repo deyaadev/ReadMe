@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ToM OR Deyaa</h1>
 <h3 align="center">#Founder NewCore Development&Studios #https://discord.gg/cn</h3>
-<img align="center" src="https://cdn.discordapp.com/attachments/938867732248678491/1077288173887045722/NCLogowithout_text.png" alt="NewCore" /><
+<img align="center" src="https://cdn.discordapp.com/attachments/938867732248678491/1077288173887045722/NCLogowithout_text.png" alt="NewCore" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
