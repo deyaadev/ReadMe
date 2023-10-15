@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm ToM OR Deyaa</h1>
-<h3 align="center">#Founder NewCore Development&Studios #https://discord.gg/cn</h3>
+<h3 align="center">#Founder NewCore Development&Studios #https://discord.gg/ncs</h3>
 <img align="center" src="https://cdn.discordapp.com/attachments/938867732248678491/1077292304664105120/Background.png" alt="NewCore" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [New Core Development in FiveM](https://discord.gg/cn)
+- 🔭 I’m currently working on [New Core Development in FiveM](https://discord.gg/ncs)
 
 - 🌱 I’m currently learning **Java Script**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/cn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cn" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/ncs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ncs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
